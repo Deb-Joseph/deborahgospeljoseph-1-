@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+Firstname="Deborah"
+Lastname="Jospeh"
+echo $"Firstname" $"Lastname"
+
